@@ -1,0 +1,38 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/bb/48/02/bb4802c1ca3e886abe35f3f42fd5401c.jpg');
+    background-size: auto 100vh;
+    font-family: arial;
+    
+  }
+  
+  .menu {
+    background-color: white;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtitle,
+  .site-title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: italic;
+  }
